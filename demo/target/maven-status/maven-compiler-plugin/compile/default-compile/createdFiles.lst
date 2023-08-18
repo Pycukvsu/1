@@ -7,7 +7,6 @@ DBUtils.class
 Main.class
 PlayerCreate.class
 Currencies.class
-ServletCreatePlayer.class
-ServletItems.class
 ServletCurrencies.class
+ServletItems.class
 CRUDUtils.class

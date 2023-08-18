@@ -8,6 +8,6 @@
 <h1>Создать игрока: http://localhost:8080/servlet?nickname=&playerId= </h1>
 <h1>Удалить игрока: </h1>
 <br/>
-<a href="servlet">Hello ServletCreatePlayer</a>
+<a href="servlet">Hello servlets.ServletPlayer</a>
 </body>
 </html>
